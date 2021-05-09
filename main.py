@@ -1,5 +1,16 @@
 import tkinter, configparser, random, os, tkinter.messagebox, tkinter.simpledialog
 
+
+
+import sys
+input=sys.argv[1]
+print(input)
+
+
+
+
+
+
 window = tkinter.Tk()
 
 window.title("Minesweeper")
